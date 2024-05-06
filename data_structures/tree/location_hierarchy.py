@@ -1,3 +1,6 @@
+"""
+Build below location tree using TreeNode class
+"""
 class TreeNode:
     def __init__(self, data):
         self.data = data
